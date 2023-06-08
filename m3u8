@@ -7,7 +7,7 @@ http://192.168.3.254:8020/play/a01a/index.m3u8
 http://192.168.3.254:8020/play/a018/index.m3u8
 #EXTINF:-1,AZ click
 http://192.168.3.254:8020/play/a01w/index.m3u8
-#EXTINF:-1,AZTECA 7 SD
+#EXTINF:-1,NUEVE SD
 http://192.168.3.254:8020/play/aztecasd/index.m3u8
 #EXTINF:-1,Animal Planet SD
 http://192.168.3.254:8020/play/a03b/index.m3u8
@@ -27,7 +27,7 @@ http://192.168.3.254:8020/play/beinSD/index.m3u8
 http://192.168.3.254:8020/play/a02c/index.m3u8
 #EXTINF:-1,CANAL 27 SD
 http://192.168.3.254:8020/play/canalsd/index.m3u8
-#EXTINF:-1,CANAL 5 SD
+#EXTINF:-1,CANAL 22 SD
 http://192.168.3.254:8020/play/5sd5/index.m3u8
 #EXTINF:-1,CARTOON NT
 http://192.168.3.254:8020/play/a00d/index.m3u8
@@ -39,7 +39,7 @@ http://192.168.3.254:8020/play/a01b/index.m3u8
 http://192.168.3.254:8020/play/a02y/index.m3u8
 #EXTINF:-1,Canal Antigua
 http://192.168.3.254:8020/play/a02v/index.m3u8
-#EXTINF:-1,Canal De Las Estrella SD
+#EXTINF:-1,GOLDEN SD
 http://192.168.3.254:8020/play/essd/index.m3u8
 #EXTINF:-1,Cartoon Network SD
 http://192.168.3.254:8020/play/a00s/index.m3u8
@@ -55,7 +55,7 @@ http://192.168.3.254:8020/play/a04p/index.m3u8
 http://192.168.3.254:8020/play/a03u/index.m3u8
 #EXTINF:-1,DE PELICULA SD
 http://192.168.3.254:8020/play/sdpeli/index.m3u8
-#EXTINF:-1,DEPORTES SD
+#EXTINF:-1,CINECANAL SD
 http://192.168.3.254:8020/play/deportessd/index.m3u8
 #EXTINF:-1,DHE SD
 http://192.168.3.254:8020/play/a008/index.m3u8
@@ -63,14 +63,10 @@ http://192.168.3.254:8020/play/a008/index.m3u8
 http://192.168.3.254:8020/play/a03r/index.m3u8
 #EXTINF:-1,DISTRITO COMEDIA SD
 http://192.168.3.254:8020/play/disd/index.m3u8
-#EXTINF:-1,Digital 15
-http://192.168.3.254:8020/play/a023/index.m3u8
 #EXTINF:-1,Discovery Channel SD
 http://192.168.3.254:8020/play/a03a/index.m3u8
 #EXTINF:-1,Discovery Home & Health
 http://192.168.3.254:8020/play/a04e/index.m3u8
-#EXTINF:-1,Discovery ID HD
-http://192.168.3.254:8020/play/a05a/index.m3u8
 #EXTINF:-1,Discovery Kids
 http://192.168.3.254:8020/play/a049/index.m3u8
 #EXTINF:-1,Discovery Turbo
@@ -83,8 +79,6 @@ http://192.168.3.254:8020/play/a00v/index.m3u8
 http://192.168.3.254:8020/play/a037/index.m3u8
 #EXTINF:-1,EJTV
 http://192.168.3.254:8020/play/ejtv/index.m3u8
-#EXTINF:-1,ESPN
-http://192.168.3.254:8020/play/a04z/index.m3u8
 #EXTINF:-1,ESPN  +
 http://192.168.3.254:8020/play/a01h/index.m3u8
 #EXTINF:-1,ESPN 2 SD
@@ -95,8 +89,6 @@ http://192.168.3.254:8020/play/a02j/index.m3u8
 http://192.168.3.254:8020/play/a04i/index.m3u8
 #EXTINF:-1,ESPN SD
 http://192.168.3.254:8020/play/a03e/index.m3u8
-#EXTINF:-1,ESTRELLATV
-http://192.168.3.254:8020/play/s21a/index.m3u8
 #EXTINF:-1,EURO Channel
 http://192.168.3.254:8020/play/a02f/index.m3u8
 #EXTINF:-1,EWTN
@@ -109,8 +101,6 @@ http://192.168.3.254:8020/play/a03g/index.m3u8
 http://192.168.3.254:8020/play/foxsd/index.m3u8
 #EXTINF:-1,FOX SPORT 2.0
 http://192.168.3.254:8020/play/fox2/index.m3u8
-#EXTINF:-1,FOX SPORTS 3
-http://192.168.3.254:8020/play/a052/index.m3u8
 #EXTINF:-1,FOX Sports 2 SD
 http://192.168.3.254:8020/play/a02k/index.m3u8
 #EXTINF:-1,FX SD
@@ -129,32 +119,16 @@ http://192.168.3.254:8020/play/a00m/index.m3u8
 http://192.168.3.254:8020/play/a02g/index.m3u8
 #EXTINF:-1,HBO
 http://192.168.3.254:8020/play/a00e/index.m3u8
-#EXTINF:-1,HBO Family
-http://192.168.3.254:8020/play/a00h/index.m3u8
-#EXTINF:-1,HBO Plus
-http://192.168.3.254:8020/play/a00g/index.m3u8
-#EXTINF:-1,HBO XTREME
-http://192.168.3.254:8020/play/a00i/index.m3u8
-#EXTINF:-1,HBO2
-http://192.168.3.254:8020/play/a00f/index.m3u8
 #EXTINF:-1,HOLA! TV
 http://192.168.3.254:8020/play/a03t/index.m3u8
 #EXTINF:-1,HTV
 http://192.168.3.254:8020/play/a02o/index.m3u8
 #EXTINF:-1,History Channel SD
 http://192.168.3.254:8020/play/a03c/index.m3u8
-#EXTINF:-1,Home & Health
-http://192.168.3.254:8020/play/a03s/index.m3u8
 #EXTINF:-1,ID
 http://192.168.3.254:8020/play/a04f/index.m3u8
-#EXTINF:-1,ISAT
-http://192.168.3.254:8020/play/a04m/index.m3u8
 #EXTINF:-1,Latin America Sport
 http://192.168.3.254:8020/play/a02l/index.m3u8
-#EXTINF:-1,MTV
-http://192.168.3.254:8020/play/a01i/index.m3u8
-#EXTINF:-1,MTV 00s
-http://192.168.3.254:8020/play/a03w/index.m3u8
 #EXTINF:-1,MTV 00s SD
 http://192.168.3.254:8020/play/a02n/index.m3u8
 #EXTINF:-1,MTV 80s SD
@@ -163,22 +137,14 @@ http://192.168.3.254:8020/play/a017/index.m3u8
 http://192.168.3.254:8020/play/a016/index.m3u8
 #EXTINF:-1,MTV SD
 http://192.168.3.254:8020/play/a04j/index.m3u8
-#EXTINF:-1,MTV SIM
-http://192.168.3.254:8020/play/a03v/index.m3u8
 #EXTINF:-1,Multicinema
 http://192.168.3.254:8020/play/a02r/index.m3u8
 #EXTINF:-1,Multimedios
 http://192.168.3.254:8020/play/a004/index.m3u8
 #EXTINF:-1,Multipremier
 http://192.168.3.254:8020/play/a04n/index.m3u8
-#EXTINF:-1,NUEVA VISION
-http://192.168.3.254:8020/play/n90v/index.m3u8
 #EXTINF:-1,National Geographic SD
 http://192.168.3.254:8020/play/a013/index.m3u8
-#EXTINF:-1,Nick Jr
-http://192.168.3.254:8020/play/a00t/index.m3u8
-#EXTINF:-1,Nick SIM
-http://192.168.3.254:8020/play/a03o/index.m3u8
 #EXTINF:-1,Nickelodeon
 http://192.168.3.254:8020/play/a04a/index.m3u8
 #EXTINF:-1,Paramount SD
@@ -207,8 +173,6 @@ http://192.168.3.254:8020/play/a010/index.m3u8
 http://192.168.3.254:8020/play/a04c/index.m3u8
 #EXTINF:-1,Sembrador
 http://192.168.3.254:8020/play/a02s/index.m3u8
-#EXTINF:-1,Sony Movies
-http://192.168.3.254:8020/play/a01u/index.m3u8
 #EXTINF:-1,Star TVE
 http://192.168.3.254:8020/play/a01x/index.m3u8
 #EXTINF:-1,Studio Universal SD
@@ -245,8 +209,6 @@ http://192.168.3.254:8020/play/a021/index.m3u8
 http://192.168.3.254:8020/play/tudnsd/index.m3u8
 #EXTINF:-1,TVE
 http://192.168.3.254:8020/play/a04s/index.m3u8
-#EXTINF:-1,Teen Nick
-http://192.168.3.254:8020/play/a01k/index.m3u8
 #EXTINF:-1,Tele Antillas
 http://192.168.3.254:8020/play/a00n/index.m3u8
 #EXTINF:-1,TeleMicro
@@ -271,25 +233,11 @@ http://192.168.3.254:8020/play/UNICABLE/index.m3u8
 http://192.168.3.254:8020/play/unimassd/index.m3u8
 #EXTINF:-1,UNITLNOVELAS SD
 http://192.168.3.254:8020/play/tlsd/index.m3u8
-#EXTINF:-1,UNIVERSAL CINEMA
-http://192.168.3.254:8020/play/a05b/index.m3u8
-#EXTINF:-1,UNIVERSAL COMEDY
-http://192.168.3.254:8020/play/a041/index.m3u8
-#EXTINF:-1,UNIVERSAL CRIME
-http://192.168.3.254:8020/play/a040/index.m3u8
-#EXTINF:-1,UNIVERSAL PREMIERE
-http://192.168.3.254:8020/play/a03x/index.m3u8
-#EXTINF:-1,UNIVERSAL PREMIERE O
-http://192.168.3.254:8020/play/a03y/index.m3u8
-#EXTINF:-1,UNIVERSAL REALITY
-http://192.168.3.254:8020/play/a03z/index.m3u8
 #EXTINF:-1,UNIVERSO SD
 http://192.168.3.254:8020/play/universosd/index.m3u8
 #EXTINF:-1,UNIVISION SD
 http://192.168.3.254:8020/play/unisd/index.m3u8
 #EXTINF:-1,Universal SD
 http://192.168.3.254:8020/play/a04l/index.m3u8
-#EXTINF:-1,Univision Internacional
-http://192.168.3.254:8020/play/a059/index.m3u8
 #EXTINF:-1,Warner SD
 http://192.168.3.254:8020/play/a036/index.m3u8
