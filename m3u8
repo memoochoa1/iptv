@@ -1,243 +1,285 @@
 #EXTM3U
-#EXTINF:-1,A&E SD
-http://192.168.3.254:8020/play/a038/index.m3u8
-#EXTINF:-1,AMC SD
-http://192.168.3.254:8020/play/a01a/index.m3u8
-#EXTINF:-1,AXN SD
-http://192.168.3.254:8020/play/a018/index.m3u8
-#EXTINF:-1,AZ click
-http://192.168.3.254:8020/play/a01w/index.m3u8
-#EXTINF:-1,NUEVE SD
-http://192.168.3.254:8020/play/aztecasd/index.m3u8
-#EXTINF:-1,Animal Planet SD
-http://192.168.3.254:8020/play/a03b/index.m3u8
-#EXTINF:-1,Antena 7- RD
-http://192.168.3.254:8020/play/a00o/index.m3u8
-#EXTINF:-1,Azcorazon
-http://192.168.3.254:8020/play/a00z/index.m3u8
-#EXTINF:-1,Azmundo
-http://192.168.3.254:8020/play/a034/index.m3u8
-#EXTINF:-1,Azteca Guatemala
-http://192.168.3.254:8020/play/a02w/index.m3u8
-#EXTINF:-1,BBC World SD
-http://192.168.3.254:8020/play/a01c/index.m3u8
-#EXTINF:-1,BEIN SPORT SD
-http://192.168.3.254:8020/play/beinSD/index.m3u8
-#EXTINF:-1,Baby First SD
-http://192.168.3.254:8020/play/a02c/index.m3u8
-#EXTINF:-1,CANAL 27 SD
-http://192.168.3.254:8020/play/canalsd/index.m3u8
-#EXTINF:-1,CANAL 22 SD
-http://192.168.3.254:8020/play/5sd5/index.m3u8
+#EXTINF:-1,A&E
+http://192.168.3.254:8001/canal.m3u8
+#EXTINF:-1,AMC
+http://192.168.3.254:8003/canal.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://192.168.3.254:8005/canal.m3u8
+#EXTINF:-1,ANTENA 7
+http://192.168.3.254:8007/canal.m3u8
+#EXTINF:-1,AXN
+http://192.168.3.254:8008/canal.m3u8
+#EXTINF:-1,AZ CLICK
+http://192.168.3.254:8010/canal.m3u8
+#EXTINF:-1,AZ CORAZON
+http://192.168.3.254:8011/canal.m3u8
+#EXTINF:-1,AZ MUNDO
+http://192.168.3.254:8012/canal.m3u8
+#EXTINF:-1,AZTECA 7
+http://192.168.3.254:8013/canal.m3u8
+#EXTINF:-1,AZTECA GUATE
+http://192.168.3.254:8015/canal.m3u8
+#EXTINF:-1,BABY FIRTS
+http://192.168.3.254:8016/canal.m3u8
+#EXTINF:-1,BBC
+http://192.168.3.254:8017/canal.m3u8
+#EXTINF:-1,CANAL
+http://192.168.3.254:8018/canal.m3u8
+#EXTINF:-1,CANAL 27
+http://192.168.3.254:8019/canal.m3u8
+#EXTINF:-1,CANAL 3 EL SUPER CANAL
+http://192.168.3.254:8021/canal.m3u8
+#EXTINF:-1,CANAL 5
+http://192.168.3.254:8022/canal.m3u8
+#EXTINF:-1,CANAL ANTIGUA
+http://192.168.3.254:8024/canal.m3u8
+#EXTINF:-1,CANAL DE LAS ESTRELLAS
+http://192.168.3.254:8025/canal.m3u8
+#EXTINF:-1,CANAL DEL CONGRESO
+http://192.168.3.254:8027/canal.m3u8
 #EXTINF:-1,CARTOON NT
-http://192.168.3.254:8020/play/a00d/index.m3u8
+http://192.168.3.254:8029/canal.m3u8
+#EXTINF:-1,CARTOONITO
+http://192.168.3.254:8030/canal.m3u8
+#EXTINF:-1,CINE LATINO
+http://192.168.3.254:8031/canal.m3u8
 #EXTINF:-1,CINECANAL
-http://192.168.3.254:8020/play/a03l/index.m3u8
-#EXTINF:-1,CNNE
-http://192.168.3.254:8020/play/a01b/index.m3u8
-#EXTINF:-1,Canal 3
-http://192.168.3.254:8020/play/a02y/index.m3u8
-#EXTINF:-1,Canal Antigua
-http://192.168.3.254:8020/play/a02v/index.m3u8
-#EXTINF:-1,GOLDEN SD
-http://192.168.3.254:8020/play/essd/index.m3u8
-#EXTINF:-1,Cartoon Network SD
-http://192.168.3.254:8020/play/a00s/index.m3u8
-#EXTINF:-1,Cartoonito
-http://192.168.3.254:8020/play/a00u/index.m3u8
-#EXTINF:-1,Cine Latino SD
-http://192.168.3.254:8020/play/a04o/index.m3u8
-#EXTINF:-1,CineCanal SD
-http://192.168.3.254:8020/play/a04r/index.m3u8
-#EXTINF:-1,CineMax
-http://192.168.3.254:8020/play/a04p/index.m3u8
-#EXTINF:-1,Comedy Central
-http://192.168.3.254:8020/play/a03u/index.m3u8
-#EXTINF:-1,DE PELICULA SD
-http://192.168.3.254:8020/play/sdpeli/index.m3u8
-#EXTINF:-1,CINECANAL SD
-http://192.168.3.254:8020/play/deportessd/index.m3u8
-#EXTINF:-1,DHE SD
-http://192.168.3.254:8020/play/a008/index.m3u8
-#EXTINF:-1,DISC THEATHER
-http://192.168.3.254:8020/play/a03r/index.m3u8
-#EXTINF:-1,DISTRITO COMEDIA SD
-http://192.168.3.254:8020/play/disd/index.m3u8
-#EXTINF:-1,Discovery Channel SD
-http://192.168.3.254:8020/play/a03a/index.m3u8
-#EXTINF:-1,Discovery Home & Health
-http://192.168.3.254:8020/play/a04e/index.m3u8
-#EXTINF:-1,Discovery Kids
-http://192.168.3.254:8020/play/a049/index.m3u8
-#EXTINF:-1,Discovery Turbo
-http://192.168.3.254:8020/play/a04d/index.m3u8
-#EXTINF:-1,Disney
-http://192.168.3.254:8020/play/a04b/index.m3u8
-#EXTINF:-1,Disney JR
-http://192.168.3.254:8020/play/a00v/index.m3u8
-#EXTINF:-1,E! SD
-http://192.168.3.254:8020/play/a037/index.m3u8
-#EXTINF:-1,EJTV
-http://192.168.3.254:8020/play/ejtv/index.m3u8
-#EXTINF:-1,ESPN  +
-http://192.168.3.254:8020/play/a01h/index.m3u8
-#EXTINF:-1,ESPN 2 SD
-http://192.168.3.254:8020/play/a03f/index.m3u8
-#EXTINF:-1,ESPN 3 SD
-http://192.168.3.254:8020/play/a02j/index.m3u8
-#EXTINF:-1,ESPN 4 SD
-http://192.168.3.254:8020/play/a04i/index.m3u8
-#EXTINF:-1,ESPN SD
-http://192.168.3.254:8020/play/a03e/index.m3u8
-#EXTINF:-1,EURO Channel
-http://192.168.3.254:8020/play/a02f/index.m3u8
+http://192.168.3.254:8032/canal.m3u8
+#EXTINF:-1,CINEMAX
+http://192.168.3.254:8034/canal.m3u8
+#EXTINF:-1,CNN
+http://192.168.3.254:8035/canal.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://192.168.3.254:8036/canal.m3u8
+#EXTINF:-1,DE PELICULA
+http://192.168.3.254:8037/canal.m3u8
+#EXTINF:-1,DEPORTES
+http://192.168.3.254:8039/canal.m3u8
+#EXTINF:-1,DHE
+http://192.168.3.254:8041/canal.m3u8
+#EXTINF:-1,DIGITAL 15
+http://192.168.3.254:8043/canal.m3u8
+#EXTINF:-1,DISCOVERY THEATHER
+http://192.168.3.254:8044/canal.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://192.168.3.254:8045/canal.m3u8
+#EXTINF:-1,DISCOVERY HOME & HEALTH
+http://192.168.3.254:8047/canal.m3u8
+#EXTINF:-1,DISCOVERY ID
+http://192.168.3.254:8048/canal.m3u8
+#EXTINF:-1,DISCOVERY KIDS
+http://192.168.3.254:8049/canal.m3u8
+#EXTINF:-1,DISCOVERY TURBO
+http://192.168.3.254:8050/canal.m3u8
+#EXTINF:-1,DISCOVERY WORLD
+http://192.168.3.254:8051/canal.m3u8
+#EXTINF:-1,DISNEY
+http://192.168.3.254:8052/canal.m3u8
+#EXTINF:-1,DISNEY JR
+http://192.168.3.254:8053/canal.m3u8
+#EXTINF:-1,DISTRUTO COMEDIA
+http://192.168.3.254:8054/canal.m3u8
+#EXTINF:-1,E!
+http://192.168.3.254:8056/canal.m3u8
+#EXTINF:-1,ENLACE JUVENIL
+http://192.168.3.254:8058/canal.m3u8
+#EXTINF:-1,EL GOURMET
+http://192.168.3.254:8059/canal.m3u8
+#EXTINF:-1,ESPN
+http://192.168.3.254:8060/canal.m3u8
+#EXTINF:-1,ESPN +
+http://192.168.3.254:8061/canal.m3u8
+#EXTINF:-1,ESPN 2
+http://192.168.3.254:8062/canal.m3u8
+#EXTINF:-1,ESPN 3
+http://192.168.3.254:8064/canal.m3u8
+#EXTINF:-1,ESPN 4
+http://192.168.3.254:8066/canal.m3u8
+#EXTINF:-1,ESTRELLA TV
+http://192.168.3.254:8069/canal.m3u8
+#EXTINF:-1,EURO CHANNEL
+http://192.168.3.254:8070/canal.m3u8
+#EXTINF:-1,EUROPA
+http://192.168.3.254:8071/canal.m3u8
 #EXTINF:-1,EWTN
-http://192.168.3.254:8020/play/a01f/index.m3u8
-#EXTINF:-1,El Gourmet
-http://192.168.3.254:8020/play/a02h/index.m3u8
-#EXTINF:-1,Exa TV
-http://192.168.3.254:8020/play/a03g/index.m3u8
-#EXTINF:-1,FOX SPORT 2.0
-http://192.168.3.254:8020/play/foxsd/index.m3u8
-#EXTINF:-1,FOX SPORT 2.0
-http://192.168.3.254:8020/play/fox2/index.m3u8
-#EXTINF:-1,FOX Sports 2 SD
-http://192.168.3.254:8020/play/a02k/index.m3u8
-#EXTINF:-1,FX SD
-http://192.168.3.254:8020/play/a02d/index.m3u8
-#EXTINF:-1,Film & Arts SD
-http://192.168.3.254:8020/play/a007/index.m3u8
-#EXTINF:-1,Fox Sport 3 SD
-http://192.168.3.254:8020/play/a015/index.m3u8
-#EXTINF:-1,France24
-http://192.168.3.254:8020/play/a01d/index.m3u8
-#EXTINF:-1,Golden
-http://192.168.3.254:8020/play/a02p/index.m3u8
-#EXTINF:-1,Guatevision
-http://192.168.3.254:8020/play/a00m/index.m3u8
+http://192.168.3.254:8072/canal.m3u8
+#EXTINF:-1,EXA TV
+http://192.168.3.254:8073/canal.m3u8
+#EXTINF:-1,FILM & ARTS
+http://192.168.3.254:8074/canal.m3u8
+#EXTINF:-1,FOX SPORTS 2
+http://192.168.3.254:8076/canal.m3u8
+#EXTINF:-1,FOX SPORTS II
+http://192.168.3.254:8079/canal.m3u8
+#EXTINF:-1,FOX SPORTS 3
+http://192.168.3.254:8081/canal.m3u8
+#EXTINF:-1,FRANCE 24
+http://192.168.3.254:8082/canal.m3u8
+#EXTINF:-1,FX
+http://192.168.3.254:8083/canal.m3u8
+#EXTINF:-1,GOLDEN
+http://192.168.3.254:8085/canal.m3u8
+#EXTINF:-1,GUATEVISION
+http://192.168.3.254:8086/canal.m3u8
 #EXTINF:-1,H2
-http://192.168.3.254:8020/play/a02g/index.m3u8
+http://192.168.3.254:8087/canal.m3u8
 #EXTINF:-1,HBO
-http://192.168.3.254:8020/play/a00e/index.m3u8
+http://192.168.3.254:8088/canal.m3u8
+#EXTINF:-1,HBO FAMILY
+http://192.168.3.254:8089/canal.m3u8
+#EXTINF:-1,HBO PLUS
+http://192.168.3.254:8090/canal.m3u8
+#EXTINF:-1,HBO XTREAM
+http://192.168.3.254:8091/canal.m3u8
+#EXTINF:-1,HBO2
+http://192.168.3.254:8092/canal.m3u8
+#EXTINF:-1,HISTORY CHANNEL
+http://192.168.3.254:8093/canal.m3u8
 #EXTINF:-1,HOLA! TV
-http://192.168.3.254:8020/play/a03t/index.m3u8
+http://192.168.3.254:8095/canal.m3u8
+#EXTINF:-1,HOME & HEALTH
+http://192.168.3.254:8096/canal.m3u8
 #EXTINF:-1,HTV
-http://192.168.3.254:8020/play/a02o/index.m3u8
-#EXTINF:-1,History Channel SD
-http://192.168.3.254:8020/play/a03c/index.m3u8
+http://192.168.3.254:8097/canal.m3u8
 #EXTINF:-1,ID
-http://192.168.3.254:8020/play/a04f/index.m3u8
-#EXTINF:-1,Latin America Sport
-http://192.168.3.254:8020/play/a02l/index.m3u8
-#EXTINF:-1,MTV 00s SD
-http://192.168.3.254:8020/play/a02n/index.m3u8
-#EXTINF:-1,MTV 80s SD
-http://192.168.3.254:8020/play/a017/index.m3u8
-#EXTINF:-1,MTV Hits
-http://192.168.3.254:8020/play/a016/index.m3u8
-#EXTINF:-1,MTV SD
-http://192.168.3.254:8020/play/a04j/index.m3u8
-#EXTINF:-1,Multicinema
-http://192.168.3.254:8020/play/a02r/index.m3u8
-#EXTINF:-1,Multimedios
-http://192.168.3.254:8020/play/a004/index.m3u8
-#EXTINF:-1,Multipremier
-http://192.168.3.254:8020/play/a04n/index.m3u8
-#EXTINF:-1,National Geographic SD
-http://192.168.3.254:8020/play/a013/index.m3u8
-#EXTINF:-1,Nickelodeon
-http://192.168.3.254:8020/play/a04a/index.m3u8
-#EXTINF:-1,Paramount SD
-http://192.168.3.254:8020/play/a009/index.m3u8
-#EXTINF:-1,Pasiones
-http://192.168.3.254:8020/play/a058/index.m3u8
+http://192.168.3.254:8098/canal.m3u8
+#EXTINF:-1,ISAT
+http://192.168.3.254:8099/canal.m3u8
+#EXTINF:-1,LATIN AMERICA SPORT
+http://192.168.3.254:8100/canal.m3u8
+#EXTINF:-1,MTV
+http://192.168.3.254:8101/canal.m3u8
+#EXTINF:-1,MTV 00s
+http://192.168.3.254:8102/canal.m3u8
+#EXTINF:-1,MTV 80s
+http://192.168.3.254:8104/canal.m3u8
+#EXTINF:-1,MTV HITS
+http://192.168.3.254:8105/canal.m3u8
+#EXTINF:-1,MTV SIM
+http://192.168.3.254:8107/canal.m3u8
+#EXTINF:-1,MULTICINEMA
+http://192.168.3.254:8108/canal.m3u8
+#EXTINF:-1,MULTIMEDIOS
+http://192.168.3.254:8109/canal.m3u8
+#EXTINF:-1,NAT GEO
+http://192.168.3.254:8110/canal.m3u8
+#EXTINF:-1,NICK JR
+http://192.168.3.254:8113/canal.m3u8
+#EXTINF:-1,NICK SIM
+http://192.168.3.254:8114/canal.m3u8
+#EXTINF:-1,NICK
+http://192.168.3.254:8115/canal.m3u8
+#EXTINF:-1,NUEVA VISION
+http://192.168.3.254:8116/canal.m3u8
+#EXTINF:-1,PARAMOUNT
+http://192.168.3.254:8117/canal.m3u8
+#EXTINF:-1,PASIONES
+http://192.168.3.254:8119/canal.m3u8
 #EXTINF:-1,RCN
-http://192.168.3.254:8020/play/a046/index.m3u8
-#EXTINF:-1,RCN Novelas
-http://192.168.3.254:8020/play/a02e/index.m3u8
+http://192.168.3.254:8120/canal.m3u8
+#EXTINF:-1,RCN NOVELAS
+http://192.168.3.254:8121/canal.m3u8
+#EXTINF:-1,REPRETEL CANAL 11
+http://192.168.3.254:8122/canal.m3u8
+#EXTINF:-1,REPRETEL CANAL 4
+http://192.168.3.254:8123/canal.m3u8
+#EXTINF:-1,REPRETEL CANAL 6
+http://192.168.3.254:8124/canal.m3u8
 #EXTINF:-1,RHEMA TV
-http://192.168.3.254:8020/play/a04t/index.m3u8
-#EXTINF:-1,Repretel Canal 4
-http://192.168.3.254:8020/play/a032/index.m3u8
-#EXTINF:-1,Repretel canal 11
-http://192.168.3.254:8020/play/a02b/index.m3u8
-#EXTINF:-1,Repretel canal 6
-http://192.168.3.254:8020/play/a02a/index.m3u8
+http://192.168.3.254:8125/canal.m3u8
+#EXTINF:-1,SEMBRADOR
+http://192.168.3.254:8126/canal.m3u8
 #EXTINF:-1,SEMILLITAS
-http://192.168.3.254:8020/play/a00w/index.m3u8
-#EXTINF:-1,SONY SD
-http://192.168.3.254:8020/play/a035/index.m3u8
-#EXTINF:-1,SPACE SD
-http://192.168.3.254:8020/play/a010/index.m3u8
-#EXTINF:-1,STAR CHANNEL SD
-http://192.168.3.254:8020/play/a04c/index.m3u8
-#EXTINF:-1,Sembrador
-http://192.168.3.254:8020/play/a02s/index.m3u8
-#EXTINF:-1,Star TVE
-http://192.168.3.254:8020/play/a01x/index.m3u8
-#EXTINF:-1,Studio Universal SD
-http://192.168.3.254:8020/play/a04q/index.m3u8
-#EXTINF:-1,Sun Channel
-http://192.168.3.254:8020/play/a02i/index.m3u8
-#EXTINF:-1,SyFy
-http://192.168.3.254:8020/play/a039/index.m3u8
-#EXTINF:-1,TBN Enlace
-http://192.168.3.254:8020/play/a01e/index.m3u8
-#EXTINF:-1,TBS
-http://192.168.3.254:8020/play/a012/index.m3u8
-#EXTINF:-1,TCM
-http://192.168.3.254:8020/play/a02q/index.m3u8
-#EXTINF:-1,TELEHIT SD
-http://192.168.3.254:8020/play/telehitsd/index.m3u8
-#EXTINF:-1,TELEONCE
-http://192.168.3.254:8020/play/a022/index.m3u8
-#EXTINF:-1,TELEVISIETE
-http://192.168.3.254:8020/play/a02x/index.m3u8
-#EXTINF:-1,TLC SD
-http://192.168.3.254:8020/play/a03d/index.m3u8
-#EXTINF:-1,TLNOVELAS SD
-http://192.168.3.254:8020/play/telenovelassd/index.m3u8
-#EXTINF:-1,TN23
-http://192.168.3.254:8020/play/Helser/index.m3u8
-#EXTINF:-1,TNT SD
-http://192.168.3.254:8020/play/a019/index.m3u8
-#EXTINF:-1,TNT Series SD
-http://192.168.3.254:8020/play/a011/index.m3u8
-#EXTINF:-1,TRECEVISION
-http://192.168.3.254:8020/play/a021/index.m3u8
-#EXTINF:-1,TUDN SD
-http://192.168.3.254:8020/play/tudnsd/index.m3u8
+http://192.168.3.254:8127/canal.m3u8
+#EXTINF:-1,SONY
+http://192.168.3.254:8128/canal.m3u8
+#EXTINF:-1,SONY MOVIE
+http://192.168.3.254:8129/canal.m3u8
+#EXTINF:-1,SPACE
+http://192.168.3.254:8131/canal.m3u8
+#EXTINF:-1,STAR CHANNEL
+http://192.168.3.254:8133/canal.m3u8
 #EXTINF:-1,TVE
-http://192.168.3.254:8020/play/a04s/index.m3u8
-#EXTINF:-1,Tele Antillas
-http://192.168.3.254:8020/play/a00n/index.m3u8
-#EXTINF:-1,TeleMicro
-http://192.168.3.254:8020/play/a02z/index.m3u8
-#EXTINF:-1,Telemundo Int SD
-http://192.168.3.254:8020/play/a00y/index.m3u8
-#EXTINF:-1,Telesistema
-http://192.168.3.254:8020/play/a00p/index.m3u8
-#EXTINF:-1,Teleunion
-http://192.168.3.254:8020/play/a027/index.m3u8
-#EXTINF:-1,Teleuniverso
-http://192.168.3.254:8020/play/a025/index.m3u8
-#EXTINF:-1,Televida
-http://192.168.3.254:8020/play/a003/index.m3u8
-#EXTINF:-1,Tooncast
-http://192.168.3.254:8020/play/a033/index.m3u8
-#EXTINF:-1,Tru TV SD
-http://192.168.3.254:8020/play/a00x/index.m3u8
+http://192.168.3.254:8135/canal.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL
+http://192.168.3.254:8136/canal.m3u8
+#EXTINF:-1,SUN CHANNEL
+http://192.168.3.254:8138/canal.m3u8
+#EXTINF:-1,SyFy
+http://192.168.3.254:8139/canal.m3u8
+#EXTINF:-1,ENLACE
+http://192.168.3.254:8140/canal.m3u8
+#EXTINF:-1,TBS
+http://192.168.3.254:8141/canal.m3u8
+#EXTINF:-1,TCM
+http://192.168.3.254:8142/canal.m3u8
+#EXTINF:-1,TEEN NICK
+http://192.168.3.254:8143/canal.m3u8
+#EXTINF:-1,TELE ANTILLAS
+http://192.168.3.254:8144/canal.m3u8
+#EXTINF:-1,TELEHIT
+http://192.168.3.254:8145/canal.m3u8
+#EXTINF:-1,TELEMICRO
+http://192.168.3.254:8147/canal.m3u8
+#EXTINF:-1,TELEMUNDO
+http://192.168.3.254:8148/canal.m3u8
+#EXTINF:-1,TELEMUNDO INTERNACIONAL
+http://192.168.3.254:8149/canal.m3u8
+#EXTINF:-1,TELEONCE
+http://192.168.3.254:8152/canal.m3u8
+#EXTINF:-1,TELESISTEMA
+http://192.168.3.254:8153/canal.m3u8
+#EXTINF:-1,TELEUNION
+http://192.168.3.254:8154/canal.m3u8
+#EXTINF:-1,TELEUNIVERSO
+http://192.168.3.254:8155/canal.m3u8
+#EXTINF:-1,TELEVIDA
+http://192.168.3.254:8156/canal.m3u8
+#EXTINF:-1,TELEVISIETE
+http://192.168.3.254:8157/canal.m3u8
+#EXTINF:-1,TLC
+http://192.168.3.254:8158/canal.m3u8
+#EXTINF:-1,TLNOVELAS
+http://192.168.3.254:8159/canal.m3u8
+#EXTINF:-1,TN23
+http://192.168.3.254:8161/canal.m3u8
+#EXTINF:-1,TNT
+http://192.168.3.254:8162/canal.m3u8
+#EXTINF:-1,TNT SERIES
+http://192.168.3.254:8164/canal.m3u8
+#EXTINF:-1,TOONCAST
+http://192.168.3.254:8166/canal.m3u8
+#EXTINF:-1,TRECEVISION
+http://192.168.3.254:8167/canal.m3u8
+#EXTINF:-1,TRU TV
+http://192.168.3.254:8168/canal.m3u8
+#EXTINF:-1,TUDN
+http://192.168.3.254:8169/canal.m3u8
+#EXTINF:-1,TVE
+http://192.168.3.254:8171/canal.m3u8
 #EXTINF:-1,UNICABLE
-http://192.168.3.254:8020/play/UNICABLE/index.m3u8
-#EXTINF:-1,UNIMAS SD
-http://192.168.3.254:8020/play/unimassd/index.m3u8
-#EXTINF:-1,UNITLNOVELAS SD
-http://192.168.3.254:8020/play/tlsd/index.m3u8
-#EXTINF:-1,UNIVERSO SD
-http://192.168.3.254:8020/play/universosd/index.m3u8
-#EXTINF:-1,UNIVISION SD
-http://192.168.3.254:8020/play/unisd/index.m3u8
-#EXTINF:-1,Universal SD
-http://192.168.3.254:8020/play/a04l/index.m3u8
-#EXTINF:-1,Warner SD
-http://192.168.3.254:8020/play/a036/index.m3u8
+http://192.168.3.254:8172/canal.m3u8
+#EXTINF:-1,UNIMAS
+http://192.168.3.254:8174/canal.m3u8
+#EXTINF:-1,UNIVISION TLNOVELAS
+http://192.168.3.254:8176/canal.m3u8
+#EXTINF:-1,UNIVERSAL CINEMA
+http://192.168.3.254:8178/canal.m3u8
+#EXTINF:-1,UNIVERSAL COMEDY
+http://192.168.3.254:8179/canal.m3u8
+#EXTINF:-1,UNIVERSAL CRIME
+http://192.168.3.254:8180/canal.m3u8
+#EXTINF:-1,UNIVERSAL PRIME E
+http://192.168.3.254:8181/canal.m3u8
+#EXTINF:-1,UNIVERSAL PRIME O
+http://192.168.3.254:8182/canal.m3u8
+#EXTINF:-1,UNIVERSAL REALITY
+http://192.168.3.254:8183/canal.m3u8
+#EXTINF:-1,UNIVERSO
+http://192.168.3.254:8185/canal.m3u8
+#EXTINF:-1,UNIVISION
+http://192.168.3.254:8187/canal.m3u8
+#EXTINF:-1,UNIVISION INTERNACIONAL
+http://192.168.3.254:8188/canal.m3u8
+#EXTINF:-1,WARNER
+http://192.168.3.254:8190/canal.m3u8
