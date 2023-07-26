@@ -40,7 +40,7 @@ http://192.168.3.254:8034/canal.m3u8
 #EXTINF:-1,CNN
 http://192.168.3.254:8035/canal.m3u8
 #EXTINF:-1,DE PELICULA
-http://192.168.3.254:8037/canal.m3u8
+http://192.168.3.254:8039/canal.m3u8
 #EXTINF:-1,DHE
 http://192.168.3.254:8042/canal.m3u8
 #EXTINF:-1,DIGITAL 15
