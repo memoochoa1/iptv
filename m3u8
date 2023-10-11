@@ -1,260 +1,261 @@
 #EXTM3U
 #EXTINF:-1,A&E
-http://192.168.3.254:8002/canal.m3u8
+http://181.209.159.246:8002/canal.m3u8
 #EXTINF:-1,AMC
-http://192.168.3.254:8004/canal.m3u8
+http://181.209.159.246:8004/canal.m3u8
 #EXTINF:-1,ANIMAL PLANET
-http://192.168.3.254:8006/canal.m3u8
+http://181.209.159.246:8006/canal.m3u8
 #EXTINF:-1,ANTENA
-http://192.168.3.254:8007/canal.m3u8
+http://181.209.159.246:8007/canal.m3u8
 #EXTINF:-1,AXN
-http://192.168.3.254:8009/canal.m3u8
+http://181.209.159.246:8009/canal.m3u8
 #EXTINF:-1,AZ CORAZON
-http://192.168.3.254:8011/canal.m3u8
+http://181.209.159.246:8011/canal.m3u8
 #EXTINF:-1,AZ MUNDO
-http://192.168.3.254:8012/canal.m3u8
+http://181.209.159.246:8012/canal.m3u8
 #EXTINF:-1,TV UNAM
-http://192.168.3.254:8014/canal.m3u8
+http://181.209.159.246:8014/canal.m3u8
 #EXTINF:-1,AZTECA GUATE
-http://192.168.3.254:8015/canal.m3u8
+http://181.209.159.246:8015/canal.m3u8
 #EXTINF:-1,BABY FIRTS
-http://192.168.3.254:8016/canal.m3u8
+http://181.209.159.246:8016/canal.m3u8
 #EXTINF:-1,BBC
-http://192.168.3.254:8017/canal.m3u8
+http://181.209.159.246:8017/canal.m3u8
 #EXTINF:-1,CANAL 27
-http://192.168.3.254:8020/canal.m3u8
+http://181.209.159.246:8020/canal.m3u8
 #EXTINF:-1,CANAL 3 EL SUPER CANAL
-http://192.168.3.254:8021/canal.m3u8
+http://181.209.159.246:8021/canal.m3u8
 #EXTINF:-1,CANAL ANTIGUA
-http://192.168.3.254:8024/canal.m3u8
+http://181.209.159.246:8024/canal.m3u8
 #EXTINF:-1,CANAL DE LAS ESTRELLAS
-http://192.168.3.254:8026/canal.m3u8
+http://181.209.159.246:8026/canal.m3u8
 #EXTINF:-1,CARTOON NETWORK
-http://192.168.3.254:8028/canal.m3u8
+http://181.209.159.246:8028/canal.m3u8
 #EXTINF:-1,CARTOONITO
-http://192.168.3.254:8030/canal.m3u8
+http://181.209.159.246:8030/canal.m3u8
 #EXTINF:-1,CINE LATINO
-http://192.168.3.254:8031/canal.m3u8
+http://181.209.159.246:8031/canal.m3u8
 #EXTINF:-1,CINEMAX
-http://192.168.3.254:8034/canal.m3u8
+http://181.209.159.246:8034/canal.m3u8
 #EXTINF:-1,CNN
-http://192.168.3.254:8035/canal.m3u8
+http://181.209.159.246:8035/canal.m3u8
 #EXTINF:-1,DE PELICULA
-http://192.168.3.254:8039/canal.m3u8
+http://181.209.159.246:8039/canal.m3u8
 #EXTINF:-1,DHE
-http://192.168.3.254:8042/canal.m3u8
+http://181.209.159.246:8042/canal.m3u8
 #EXTINF:-1,DIGITAL 15
-http://192.168.3.254:8043/canal.m3u8
+http://181.209.159.246:8043/canal.m3u8
 #EXTINF:-1,DISCOVERY CHANNEL
-http://192.168.3.254:8046/canal.m3u8
+http://181.209.159.246:8046/canal.m3u8
 #EXTINF:-1,DISCOVERY HOME & HEALTH
-http://192.168.3.254:8047/canal.m3u8
+http://192.181.209.159.246:8048/canal.m3u8
 #EXTINF:-1,DISCOVERY KIDS
-http://192.168.3.254:8049/canal.m3u8
+http://181.209.159.246:8049/canal.m3u8
 #EXTINF:-1,DISCOVERY TURBO
-http://192.168.3.254:8050/canal.m3u8
+http://181.209.159.246:8050/canal.m3u8
 #EXTINF:-1,DISCOVERY WORLD
-http://192.168.3.254:8051/canal.m3u8
+http://181.209.159.246:8051/canal.m3u8
 #EXTINF:-1,DISNEY
-http://192.168.3.254:8052/canal.m3u8
+http://181.209.159.246:8052/canal.m3u8
 #EXTINF:-1,DISNEY JR
-http://192.168.3.254:8053/canal.m3u8
+http://181.209.159.246:8053/canal.m3u8
 #EXTINF:-1,DISTRUTO COMEDIA
-http://192.168.3.254:8055/canal.m3u8
+http://181.209.159.246:8055/canal.m3u8
 #EXTINF:-1,E!
-http://192.168.3.254:8057/canal.m3u8
+http://181.209.159.246:8057/canal.m3u8
 #EXTINF:-1,ENLACE JUVENIL
-http://192.168.3.254:8058/canal.m3u8
+http://181.209.159.246:8058/canal.m3u8
 #EXTINF:-1,EL GOURMET
-http://192.168.3.254:8059/canal.m3u8
+http://181.209.159.246:8059/canal.m3u8
 #EXTINF:-1,ESPN +
-http://192.168.3.254:8061/canal.m3u8
+http://181.209.159.246:8061/canal.m3u8
 #EXTINF:-1,ESPN 2
-http://192.168.3.254:8063/canal.m3u8
+http://181.209.159.246:8063/canal.m3u8
 #EXTINF:-1,ESPN 3
-http://192.168.3.254:8065/canal.m3u8
+http://181.209.159.246:8065/canal.m3u8
 #EXTINF:-1,ESPN 4
-http://192.168.3.254:8067/canal.m3u8
+http://181.209.159.246:8067/canal.m3u8
 #EXTINF:-1,EURO CHANNEL
-http://192.168.3.254:8070/canal.m3u8
+http://181.209.159.246:8070/canal.m3u8
 #EXTINF:-1,EUROPA
-http://192.168.3.254:8071/canal.m3u8
+http://181.209.159.246:8071/canal.m3u8
 #EXTINF:-1,EWTN
-http://192.168.3.254:8072/canal.m3u8
+http://181.209.159.246:8072/canal.m3u8
 #EXTINF:-1,EXA TV
-http://192.168.3.254:8073/canal.m3u8
+http://181.209.159.246:8073/canal.m3u8
 #EXTINF:-1,FOX SPORTS 2
-http://192.168.3.254:8077/canal.m3u8
+http://181.209.159.246:8077/canal.m3u8
 #EXTINF:-1,FOX SPORTS II
-http://192.168.3.254:8080/canal.m3u8
+http://181.209.159.246:8080/canal.m3u8
 #EXTINF:-1,FOX SPORTS 3
-http://192.168.3.254:8081/canal.m3u8
+http://181.209.159.246:8081/canal.m3u8
 #EXTINF:-1,FRANCE 24
-http://192.168.3.254:8082/canal.m3u8
+http://181.209.159.246:8082/canal.m3u8
 #EXTINF:-1,FX
-http://192.168.3.254:8084/canal.m3u8
+http://181.209.159.246:8084/canal.m3u8
 #EXTINF:-1,GOLDEN
-http://192.168.3.254:8085/canal.m3u8
+http://181.209.159.246:8085/canal.m3u8
 #EXTINF:-1,GUATEVISION
-http://192.168.3.254:8086/canal.m3u8
+http://181.209.159.246:8086/canal.m3u8
 #EXTINF:-1,H2
-http://192.168.3.254:8087/canal.m3u8
+http://181.209.159.246:8087/canal.m3u8
 #EXTINF:-1,HBO
-http://192.168.3.254:8088/canal.m3u8
+http://181.209.159.246:8088/canal.m3u8
 #EXTINF:-1,FAMILY
-http://192.168.3.254:8089/canal.m3u8
+http://181.209.159.246:8089/canal.m3u8
 #EXTINF:-1,HBO PLUS
-http://192.168.3.254:8090/canal.m3u8
+http://181.209.159.246:8090/canal.m3u8
 #EXTINF:-1,HBO XTREAM
-http://192.168.3.254:8091/canal.m3u8
+http://181.209.159.246:8091/canal.m3u8
 #EXTINF:-1,HBO2
-http://192.168.3.254:8092/canal.m3u8#EXTINF:-1,HISTORY CHANNEL
-http://192.168.3.254:8094/canal.m3u8
+http://181.209.159.246:8092/canal.m3u8
+#EXTINF:-1,HISTORY CHANNEL
+http://181.209.159.246:8094/canal.m3u8
 #EXTINF:-1,HOLA! TV
-http://192.168.3.254:8095/canal.m3u8
+http://181.209.159.246:8095/canal.m3u8
 #EXTINF:-1,HOME & HEALTH
-http://192.168.3.254:8096/canal.m3u8
+http://181.209.159.246:8096/canal.m3u8
 #EXTINF:-1,HTV
-http://192.168.3.254:8097/canal.m3u8
+http://181.209.159.246:8097/canal.m3u8
 #EXTINF:-1,ID
-http://192.168.3.254:8098/canal.m3u8
+http://181.209.159.246:8098/canal.m3u8
 #EXTINF:-1,ISAT
-http://192.168.3.254:8099/canal.m3u8
+http://181.209.159.246:8099/canal.m3u8
 #EXTINF:-1,LATIN AMERICA SPORT
-http://192.168.3.254:8100/canal.m3u8
+http://181.209.159.246:8100/canal.m3u8
 #EXTINF:-1,MTV
-http://192.168.3.254:8101/canal.m3u8
+http://181.209.159.246:8101/canal.m3u8
 #EXTINF:-1,MTV 00s
-http://192.168.3.254:8103/canal.m3u8
+http://181.209.159.246:8103/canal.m3u8
 #EXTINF:-1,MTV 80s
-http://192.168.3.254:8104/canal.m3u8
+http://181.209.159.246:8104/canal.m3u8
 #EXTINF:-1,MTV HITS
-http://192.168.3.254:8106/canal.m3u8
+http://181.209.159.246:8106/canal.m3u8
 #EXTINF:-1,MTV SIM
-http://192.168.3.254:8107/canal.m3u8
+http://181.209.159.246:8107/canal.m3u8
 #EXTINF:-1,MULTICINEMA
-http://192.168.3.254:8108/canal.m3u8
+http://181.209.159.246:8108/canal.m3u8
 #EXTINF:-1,MULTIMEDIOS
-http://192.168.3.254:8109/canal.m3u8
+http://181.209.159.246:8109/canal.m3u8
 #EXTINF:-1,NAT GEO
-http://192.168.3.254:8111/canal.m3u8
+http://181.209.159.246:8111/canal.m3u8
 #EXTINF:-1,NICK JR
-http://192.168.3.254:8113/canal.m3u8
+http://181.209.159.246:8113/canal.m3u8
 #EXTINF:-1,NICK SIM
-http://192.168.3.254:8114/canal.m3u8
+http://181.209.159.246:8114/canal.m3u8
 #EXTINF:-1,NICK
-http://192.168.3.254:8115/canal.m3u8
+http://181.209.159.246:8115/canal.m3u8
 #EXTINF:-1,NUEVA VISION
-http://192.168.3.254:8116/canal.m3u8
+http://181.209.159.246:8116/canal.m3u8
 #EXTINF:-1,PARAMOUNT
-http://192.168.3.254:8118/canal.m3u8
+http://181.209.159.246:8118/canal.m3u8
 #EXTINF:-1,PASIONES
-http://192.168.3.254:8119/canal.m3u8
+http://181.209.159.246:8119/canal.m3u8
 #EXTINF:-1,RCN
-http://192.168.3.254:8120/canal.m3u8
+http://181.209.159.246:8120/canal.m3u8
 #EXTINF:-1,RCN NOVELAS
-http://192.168.3.254:8121/canal.m3u8
+http://181.209.159.246:8121/canal.m3u8
 #EXTINF:-1,REPRETEL CANAL 11
-http://192.168.3.254:8122/canal.m3u8
+http://181.209.159.246:8122/canal.m3u8
 #EXTINF:-1,REPRETEL CANAL 4
-http://192.168.3.254:8123/canal.m3u8
+http://181.209.159.246:8123/canal.m3u8
 #EXTINF:-1,REPRETEL CANAL 6
-http://192.168.3.254:8124/canal.m3u8
+http://181.209.159.246:8124/canal.m3u8
 #EXTINF:-1,RHEMA TV
-http://192.168.3.254:8125/canal.m3u8
+http://181.209.159.246:8125/canal.m3u8
 #EXTINF:-1,SEMBRADOR
-http://192.168.3.254:8126/canal.m3u8
+http://181.209.159.246:8126/canal.m3u8
 #EXTINF:-1,SEMILLITAS
-http://192.168.3.254:8127/canal.m3u8
+http://181.209.159.246:8127/canal.m3u8
 #EXTINF:-1,SONY
-http://192.168.3.254:8128/canal.m3u8
+http://181.209.159.246:8128/canal.m3u8
 #EXTINF:-1,SONY MOVIE
-http://192.168.3.254:8130/canal.m3u8
+http://181.209.159.246:8130/canal.m3u8
 #EXTINF:-1,SPACE
-http://192.168.3.254:8132/canal.m3u8
+http://181.209.159.246:8132/canal.m3u8
 #EXTINF:-1,STAR CHANNEL
-http://192.168.3.254:8134/canal.m3u8
+http://181.209.159.246:8134/canal.m3u8
 #EXTINF:-1,TVE
-http://192.168.3.254:8135/canal.m3u8
+http://181.209.159.246:8135/canal.m3u8
 #EXTINF:-1,STUDIO UNIVERSAL
-http://192.168.3.254:8137/canal.m3u8
+http://181.209.159.246:8137/canal.m3u8
 #EXTINF:-1,SUN CHANNEL
-http://192.168.3.254:8138/canal.m3u8
+http://181.209.159.246:8138/canal.m3u8
 #EXTINF:-1,SyFy
-http://192.168.3.254:8139/canal.m3u8
+http://181.209.159.246:8139/canal.m3u8
 #EXTINF:-1,ENLACE
-http://192.168.3.254:8140/canal.m3u8
+http://181.209.159.246:8140/canal.m3u8
 #EXTINF:-1,TBS
-http://192.168.3.254:8141/canal.m3u8
+http://181.209.159.246:8141/canal.m3u8
 #EXTINF:-1,TCM
-http://192.168.3.254:8142/canal.m3u8
+http://181.209.159.246:8142/canal.m3u8
 #EXTINF:-1,TEEN NICK
-http://192.168.3.254:8143/canal.m3u8
+http://181.209.159.246:8143/canal.m3u8
 #EXTINF:-1,TELE ANTILLAS
-http://192.168.3.254:8144/canal.m3u8
+http://181.209.159.246:8144/canal.m3u8
 #EXTINF:-1,TELEHIT
-http://192.168.3.254:8146/canal.m3u8
+http://181.209.159.246:8146/canal.m3u8
 #EXTINF:-1,TELEMICRO
-http://192.168.3.254:8147/canal.m3u8
+http://181.209.159.246:8147/canal.m3u8
 #EXTINF:-1,TELEMUNDO
-http://192.168.3.254:8148/canal.m3u8
+http://181.209.159.246:8148/canal.m3u8
 #EXTINF:-1,TELEMUNDO INTERNACIONAL
-http://192.168.3.254:8150/canal.m3u8
+http://181.209.159.246:8150/canal.m3u8
 #EXTINF:-1,TELEONCE
-http://192.168.3.254:8152/canal.m3u8
+http://181.209.159.246:8152/canal.m3u8
 #EXTINF:-1,TELESISTEMA
-http://192.168.3.254:8153/canal.m3u8
+http://181.209.159.246:8153/canal.m3u8
 #EXTINF:-1,TELEUNION
-http://192.168.3.254:8154/canal.m3u8
+http://181.209.159.246:8154/canal.m3u8
 #EXTINF:-1,TELEUNIVERSO
-http://192.168.3.254:8155/canal.m3u8
+http://181.209.159.246:8155/canal.m3u8
 #EXTINF:-1,TELEVIDA
-http://192.168.3.254:8156/canal.m3u8
+http://181.209.159.246:8156/canal.m3u8
 #EXTINF:-1,TELEVISIETE
-http://192.168.3.254:8157/canal.m3u8
+http://181.209.159.246:8157/canal.m3u8
 #EXTINF:-1,TLC
-http://192.168.3.254:8158/canal.m3u8
+http://181.209.159.246:8158/canal.m3u8
 #EXTINF:-1,TLNOVELAS
-http://192.168.3.254:8160/canal.m3u8
+http://181.209.159.246:8160/canal.m3u8
 #EXTINF:-1,TN23
-http://192.168.3.254:8161/canal.m3u8
+http://181.209.159.246:8161/canal.m3u8
 #EXTINF:-1,TNT
-http://192.168.3.254:8162/canal.m3u8
+http://181.209.159.246:8162/canal.m3u8
 #EXTINF:-1,TNT SERIES
-http://192.168.3.254:8165/canal.m3u8
+http://181.209.159.246:8165/canal.m3u8
 #EXTINF:-1,TOONCAST
-http://192.168.3.254:8166/canal.m3u8
+http://181.209.159.246:8166/canal.m3u8
 #EXTINF:-1,TRECEVISION
-http://192.168.3.254:8167/canal.m3u8
+http://181.209.159.246:8167/canal.m3u8
 #EXTINF:-1,TRU TV
-http://192.168.3.254:8168/canal.m3u8
+http://181.209.159.246:8168/canal.m3u8
 #EXTINF:-1,TUDN
-http://192.168.3.254:8170/canal.m3u8
+http://181.209.159.246:8170/canal.m3u8
 #EXTINF:-1,TVE
-http://192.168.3.254:8171/canal.m3u8
+http://181.209.159.246:8171/canal.m3u8
 #EXTINF:-1,UNICABLE
-http://192.168.3.254:8173/canal.m3u8
+http://181.209.159.246:8173/canal.m3u8
 #EXTINF:-1,UNIMAS
-http://192.168.3.254:8175/canal.m3u8
+http://181.209.159.246:8175/canal.m3u8
 #EXTINF:-1,UNIVISION TLNOVELAS
-http://192.168.3.254:8177/canal.m3u8
+http://181.209.159.246:8177/canal.m3u8
 #EXTINF:-1,UNIVERSAL CINEMA
-http://192.168.3.254:8178/canal.m3u8
+http://181.209.159.246:8178/canal.m3u8
 #EXTINF:-1,UNIVERSAL COMEDY
-http://192.168.3.254:8179/canal.m3u8
+http://181.209.159.246:8179/canal.m3u8
 #EXTINF:-1,UNIVERSAL CRIME
-http://192.168.3.254:8180/canal.m3u8
+http://181.209.159.246:8180/canal.m3u8
 #EXTINF:-1,UNIVERSAL PRIME E
-http://192.168.3.254:8181/canal.m3u8
+http://181.209.159.246:8181/canal.m3u8
 #EXTINF:-1,UNIVERSAL PRIME O
-http://192.168.3.254:8182/canal.m3u8
+http://181.209.159.246:8182/canal.m3u8
 #EXTINF:-1,UNIVERSAL REALITY
-http://192.168.3.254:8183/canal.m3u8
+http://181.209.159.246:8183/canal.m3u8
 #EXTINF:-1,UNIVERSO
-http://192.168.3.254:8185/canal.m3u8
+http://181.209.159.246:8185/canal.m3u8
 #EXTINF:-1,UNIVISION
-http://192.168.3.254:8187/canal.m3u8
+http://181.209.159.246:8187/canal.m3u8
 #EXTINF:-1,UNIVISION INTERNACIONAL
-http://192.168.3.254:8188/canal.m3u8
+http://181.209.159.246:8188/canal.m3u8
 #EXTINF:-1,WARNER
-http://192.168.3.254:8190/canal.m3u8
+http://181.209.159.246:8190/canal.m3u8
