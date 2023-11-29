@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,A&E
-http://192.168.3.254:8002/canal.m3u8
 #EXTINF:-1,AMC
 http://192.168.3.254:8004/canal.m3u8
 #EXTINF:-1,ANIMAL PLANET
@@ -95,8 +93,6 @@ http://192.168.3.254:8085/canal.m3u8
 http://192.168.3.254:8086/canal.m3u8
 #EXTINF:-1,H2
 http://192.168.3.254:8087/canal.m3u8
-#EXTINF:-1,HISTORY
-http://192.168.3.254:8092/canal.m3u8
 #EXTINF:-1,HISTORY CHANNEL
 http://192.168.3.254:8094/canal.m3u8
 #EXTINF:-1,HOLA! TV
