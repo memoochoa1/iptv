@@ -11,7 +11,7 @@ http://192.168.3.254:8009/canal.m3u8
 http://192.168.3.254:8011/canal.m3u8
 #EXTINF:-1,AZTECA 13
 http://192.168.3.254:8012/canal.m3u8
-#EXTINF:-1,CANAL 5
+#EXTINF:-1,AZTECA 7
 http://192.168.3.254:8014/canal.m3u8
 #EXTINF:-1,BABY FIRTS
 http://192.168.3.254:8016/canal.m3u8
