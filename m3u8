@@ -97,7 +97,7 @@ http://192.168.3.254:8094/canal.m3u8
 http://192.168.3.254:8095/canal.m3u8
 #EXTINF:-1,HTV
 http://192.168.3.254:8097/canal.m3u8
-#EXTINF:-1,IMAGEN TELEVISION
+#EXTINF:-1,CANAL 5
 http://10.1.102.151:80/canal5
 #EXTINF:-1,ID
 http://192.168.3.254:8098/canal.m3u8
