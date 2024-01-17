@@ -17,6 +17,8 @@ http://192.168.3.254:8014/canal.m3u8
 http://192.168.3.254:8016/canal.m3u8
 #EXTINF:-1,BBC
 http://192.168.3.254:8017/canal.m3u8
+#EXTINF:-1,CANAL 5
+http://10.1.102.151:80/canal5
 #EXTINF:-1,CANAL 27
 http://192.168.3.254:8020/canal.m3u8
 #EXTINF:-1,CANAL 3 EL SUPER CANAL
@@ -97,8 +99,6 @@ http://192.168.3.254:8094/canal.m3u8
 http://192.168.3.254:8095/canal.m3u8
 #EXTINF:-1,HTV
 http://192.168.3.254:8097/canal.m3u8
-#EXTINF:-1,CANAL 5
-http://10.1.102.151:80/canal5
 #EXTINF:-1,ID
 http://192.168.3.254:8098/canal.m3u8
 #EXTINF:-1,ISAT
